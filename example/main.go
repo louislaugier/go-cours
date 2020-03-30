@@ -39,5 +39,5 @@ func main() {
 		}(&wg, b)
 	}
 	wg.Wait()
-	fmt.Println("Done !")
+	fmt.Println("Done!")
 }

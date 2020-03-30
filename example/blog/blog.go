@@ -9,7 +9,7 @@ import (
 // Blog export
 type Blog interface {
 	String() string
-	GetPostById(id string) *article.Article
+	GetPostByID(id string) *article.Article
 	GetLatestPosts(limit int) []*article.Article
 }
 
