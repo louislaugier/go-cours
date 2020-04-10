@@ -3,7 +3,7 @@ package blog
 import (
 	"strconv"
 
-	"github.com/louisl98/go-rappels/example/article"
+	"github.com/louislaugier/go-cours/example/article"
 )
 
 // Blog export

@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/louisl98/go-rappels/example/article"
-	"github.com/louisl98/go-rappels/example/blog"
-	"github.com/louisl98/go-rappels/example/blog/ghost"
-	"github.com/louisl98/go-rappels/example/blog/wordpress"
+	"github.com/louislaugier/go-cours/example/article"
+	"github.com/louislaugier/go-cours/example/blog"
+	"github.com/louislaugier/go-cours/example/blog/ghost"
+	"github.com/louislaugier/go-cours/example/blog/wordpress"
 )
 
 type feed struct {

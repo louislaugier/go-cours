@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/louisl98/go-rappels/example/article"
-	"github.com/louisl98/go-rappels/example/blog"
+	"github.com/louislaugier/go-cours/example/article"
+	"github.com/louislaugier/go-cours/example/blog"
 )
 
 // WordPress export
